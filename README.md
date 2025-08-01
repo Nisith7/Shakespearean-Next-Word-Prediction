@@ -1,1 +1,1 @@
-# -Shakespearean-Next-Word-Prediction-
+# Shakespearean-Next-Word-Prediction
